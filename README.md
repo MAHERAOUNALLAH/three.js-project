@@ -1,6 +1,7 @@
 # 3D Model Viewer with Three.js
 
-![Project Screenshot](./screenshot.png) *Add a screenshot later*
+
+<img width="674" height="624" alt="image" src="https://github.com/user-attachments/assets/5803cffa-4bc5-4b92-8cca-701802aaa0e1" />
 
 An interactive 3D model viewer built with Three.js that displays GLB/GLTF models in the browser.
 
